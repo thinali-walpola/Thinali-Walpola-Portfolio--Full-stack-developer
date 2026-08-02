@@ -510,13 +510,14 @@ html{
 /* ==========================
    SKILLS
 ========================== */
-
-.skills-container{
-
+.skill{
+   
     background:
     linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)),
     url("fabio-oyXis2kALVg-unsplash.jpg") center/cover no-repeat;  
     min-height :100vh;
+}
+.skills-container{
     max-width:850px;
     margin:auto;
 
