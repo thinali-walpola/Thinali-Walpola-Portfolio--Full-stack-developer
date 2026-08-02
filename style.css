@@ -363,8 +363,11 @@ html{
     display:flex;
     align-items:center;
     justify-content:space-between;
+    min-height: 100vh;
+    background:
+    linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)),
+    url("fabio-oyXis2kALVg-unsplash.jpg") center/cover no-repeat;
     gap:80px;
-
 }
 
 .about-image{
