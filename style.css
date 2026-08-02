@@ -583,7 +583,21 @@ html{
     animation:javascript 2s;
 
 }
-
+.react{
+   
+    width:75%;
+    animation:css 2s;
+}
+.node{
+   
+    width:65%;
+    animation:css 2s;
+}
+.aws{
+   
+    width:95%;
+    animation:css 2s;
+}
 /* ==========================
    PROGRESS ANIMATIONS
 ========================== */
