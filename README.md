@@ -37,7 +37,7 @@ Tools
 - VS Code
 - Docker (Learning)
 
-  Demo link : ( )
+  Demo link : (https://thinali-walpola.github.io/Thinali-Walpola-Portfolio--Full-stack-developer/ )
 
 📌 Featured Projects
 
