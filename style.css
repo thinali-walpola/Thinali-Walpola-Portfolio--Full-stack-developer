@@ -366,7 +366,7 @@ html{
     min-height: 100vh;
     background:
     linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)),
-    url("fabio-oyXis2kALVg-unsplash.jpg") center/cover no-repeat;
+    url("conny-schneider-xuTJZ7uD7PI-unsplash.jpg") center/cover no-repeat;
     gap:80px;
 }
 
@@ -795,7 +795,9 @@ html{
 
     max-width:800px;
     margin:auto;
-
+    background:
+    linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)),
+    url("fabio-oyXis2kALVg-unsplash.jpg") center/cover no-repeat;
     display:flex;
     flex-direction:column;
     gap:20px;
