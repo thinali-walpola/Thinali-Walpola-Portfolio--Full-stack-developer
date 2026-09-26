@@ -354,6 +354,7 @@ html{
     }
 
 }
+
 /* ==========================
    ABOUT SECTION
 ========================== */
@@ -366,8 +367,9 @@ html{
     min-height: 100vh;
     background:
     linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)),
-    url("conny-schneider-xuTJZ7uD7PI-unsplash.jpg") center/cover no-repeat;
+    url("asset/img/conny-schneider-xuTJZ7uD7PI-unsplash.jpg") center/cover no-repeat;
     gap:80px;
+
 }
 
 .about-image{
@@ -513,9 +515,10 @@ html{
 .skills{
    min-height: 100vh;
   background:linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)),
-    url("fabio-oyXis2kALVg-unsplash.jpg") center/cover no-repeat;
+    url("asset/img/fabio-oyXis2kALVg-unsplash.jpg") center/cover no-repeat;
 }
 .skills-container{
+
     max-width:850px;
     margin:auto;
 
@@ -583,19 +586,17 @@ html{
     animation:javascript 2s;
 
 }
-.react{
-    width:75%;
+.aws{
+
+    width:55%;
     animation:css 2s;
+
 }
 .node{
-   
+
     width:65%;
     animation:css 2s;
-}
-.aws{
-   
-    width:95%;
-    animation:css 2s;
+
 }
 /* ==========================
    PROGRESS ANIMATIONS
@@ -810,12 +811,13 @@ html{
     min-height: 100vh;
     background:
     linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)),
-    url("rob-lambert-9Q_pLLP_jmA-unsplash.jpg") center/cover no-repeat;
+    url("asset/img/rob-lambert-9Q_pLLP_jmA-unsplash.jpg") center/cover no-repeat;
 }
 .contact form{
 
     max-width:800px;
     margin:auto;
+
     display:flex;
     flex-direction:column;
     gap:20px;
